@@ -1,0 +1,33 @@
+# Nirmaan Drishti
+
+Nirmaan Drishti ek web-based project monitoring aur transparency dashboard hai. Ye sarkari department aur contractor dono ke liye ek hi jagah par projects, budget, kharch aur kaam ki progress track karne ki suvidha deta hai.
+
+## Features
+
+- **Dual login:** Government department aur contractor company ke liye alag account type (Create account / Sign in).
+- **Project management:** Naye contract/project banao, budget aur progress track karo.
+- **Risk score:** Har project ka automatic risk score (0 se 100) aur status (Low / Medium / High), jo budget use, progress aur deadlines ke aadhar par nikalta hai.
+- **Expense tracking:** Project-wise kharch record karo aur CSV ke roop mein export karo.
+- **Tasks and queries:** Contractor aur department ke beech queries raise aur track karo.
+- **Documents aur images:** Project se judi files ko dekho aur manage karo.
+- **Reports:** Project summary copy karo ya print karo.
+- **Backup aur restore:** Poora data JSON backup ke roop mein export karo, ya sample data wapas laao.
+- **Dark / Light theme:** System setting ke hisaab se ya manually switch karo.
+- **Mobile friendly:** Chhoti screen par bhi responsive layout.
+
+## Demo accounts
+
+Login page par "demo" buttons se turant dekh sakte ho:
+
+- Department (government) account
+- Contractor (company) account
+
+Demo accounts ka password: `demo123`
+
+## Setup
+
+Koi installation ya build step nahi hai.
+
+1. Repository clone karo ya download karo:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Nirmaan-Drishti.git
